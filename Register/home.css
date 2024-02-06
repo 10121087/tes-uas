@@ -1,0 +1,571 @@
+
+body {
+    width: 100%;
+    height: 100%;
+    background: #7da793;
+    margin: 0; /* Remove default body margin */
+    }
+
+/* Navbar */
+.nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    background: #0D3824; /* Green color */
+    }
+    
+    
+    
+    
+    
+    /* House of Plants */
+    
+    position: absolute;
+    width: 196.44px;
+    height: 86px;
+    left: 90.67px;
+    top: 15px;
+    
+    
+    
+    /* House of Plants */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 47px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Green2 */
+    color: #CCFCBB;
+    
+    
+    
+    /* leaf 1 */
+    .nav .leaf{
+    position: absolute;
+    width: 390px;
+    height: 445px;
+    
+    background: url(leaf.png);
+    }
+    
+    /* Menu */
+    
+    position: absolute;
+    width: 654px;
+    height: 53px;
+    left: 361.78px;
+    top: 33px;
+    
+    
+    
+    /* Decorate your home with beautiful plants */
+    
+    position: absolute;
+    width: 114.67px;
+    height: 53px;
+    left: 361.78px;
+    top: 33px;
+    
+    
+    
+    /* Decorate your home with beautiful plants */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 126.38%;
+    /* or 19px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Green2 */
+    color: #CCFCBB;
+    
+    
+    
+    /* Decorate your home with beautiful plants */
+    
+    position: absolute;
+    width: 114.67px;
+    height: 53px;
+    left: 468.44px;
+    top: 33px;
+    
+    
+    
+    /* Decorate your home with beautiful plants */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 126.38%;
+    /* or 19px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Green2 */
+    color: #CCFCBB;
+    
+    
+    
+    /* Decorate your home with beautiful plants */
+    
+    position: absolute;
+    width: 232.89px;
+    height: 53px;
+    left: 550.22px;
+    top: 33px;
+    
+    
+    
+    /* Decorate your home with beautiful plants */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 126.38%;
+    /* or 19px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Green2 */
+    color: #CCFCBB;
+    
+    
+    
+    /* Decorate your home with beautiful plants */
+    
+    position: absolute;
+    width: 291.56px;
+    height: 53px;
+    left: 724.22px;
+    top: 33px;
+    
+    
+    
+    /* Decorate your home with beautiful plants */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 126.38%;
+    /* or 19px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Green2 */
+    color: #CCFCBB;
+    
+    
+    
+    /* Ellipse 1 */
+    
+    position: absolute;
+    width: 4.44px;
+    height: 5px;
+    left: 473.78px;
+    top: 58px;
+    
+    /* Green2 */
+    background: #CCFCBB;
+    
+    
+    /* Ellipse 3 */
+    
+    position: absolute;
+    width: 4.44px;
+    height: 5px;
+    left: 573.33px;
+    top: 57px;
+    
+    /* Green2 */
+    background: #CCFCBB;
+    
+    
+    /* Ellipse 2 */
+    
+    position: absolute;
+    width: 4.44px;
+    height: 5px;
+    left: 752px;
+    top: 58px;
+    
+    /* Green2 */
+    background: #CCFCBB;
+    
+    
+    /* user 2 */
+    
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    left: 1190px;
+    top: 49px;
+    
+    background: url(user.png);
+    
+    
+    /* Group 33390 */
+    
+    position: absolute;
+    width: 223px;
+    height: 225.1px;
+    left: 155px;
+    top: 272px;
+    
+    
+    
+    /* caladium-bicolor-beautiful-leaves-best-pot-garden-decoration_39684-709 1 */
+    
+    position: absolute;
+    width: 222.45px;
+    height: 218.26px;
+    left: 155px;
+    top: 272px;
+    
+    background: url(caladium-bicolor-beautiful-leaves-best-pot-garden-decoration_39684-709.jpg);
+    border-radius: 28px;
+    
+    
+    /* Group 33384 */
+    
+    position: absolute;
+    width: 223px;
+    height: 225.1px;
+    left: 155px;
+    top: 272px;
+    
+    
+    
+    /* Rectangle 1208 */
+    
+    position: absolute;
+    width: 223px;
+    height: 218.79px;
+    left: 155px;
+    top: 272px;
+    
+    background: rgba(86, 92, 84, 0.15);
+    border-radius: 20px;
+    
+    
+    /* Group 33383 */
+    
+    position: absolute;
+    width: 223px;
+    height: 225.1px;
+    left: 155px;
+    top: 272px;
+    
+    
+    
+    /* Rectangle 1204 */
+    
+    position: absolute;
+    visibility: hidden;
+    left: 0%;
+    right: 0%;
+    top: 47.66%;
+    bottom: 0%;
+    
+    background: linear-gradient(180deg, rgba(89, 190, 132, 0.236) 0%, rgba(89, 190, 132, 0.0295) 100%);
+    border-radius: 0px 6px 20px 20px;
+    
+    
+    /* Vector 54 */
+    
+    position: absolute;
+    left: 0%;
+    right: 76.59%;
+    top: 97.02%;
+    bottom: -21.65%;
+    
+    /* Green3 */
+    background: #59BE84;
+    /* Green3 */
+    border: 5px solid #59BE84;
+    transform: rotate(-89.15deg);
+    
+    
+    /* Vector 55 */
+    
+    position: absolute;
+    left: 98.79%;
+    right: -22.2%;
+    top: 97.02%;
+    bottom: -21.65%;
+    
+    /* Green3 */
+    background: #59BE84;
+    /* Green3 */
+    border: 5px solid #59BE84;
+    transform: matrix(-0.01, -1, -1, 0.01, 0, 0);
+    
+    
+    /* Vector 56 */
+    
+    position: absolute;
+    left: 99.73%;
+    right: -23.15%;
+    top: 0.37%;
+    bottom: 75.01%;
+    
+    /* Green3 */
+    background: #59BE84;
+    /* Green3 */
+    border: 5px solid #59BE84;
+    transform: rotate(90.85deg);
+    
+    
+    /* Vector 57 */
+    
+    position: absolute;
+    left: 0%;
+    right: 76.59%;
+    top: 0.37%;
+    bottom: 75.01%;
+    
+    /* Green3 */
+    background: #59BE84;
+    /* Green3 */
+    border: 5px solid #59BE84;
+    transform: matrix(0.01, 1, 1, -0.01, 0, 0);
+    
+    
+    /* Line 2 */
+    
+    position: absolute;
+    visibility: hidden;
+    left: 0%;
+    right: 0%;
+    top: 51.4%;
+    bottom: 48.6%;
+    
+    /* Green3 */
+    border: 4px solid #59BE84;
+    
+    
+    /* magnifying-glass (1) 1 */
+    
+    position: absolute;
+    width: 71.53px;
+    height: 71.53px;
+    left: 230.74px;
+    top: 345.63px;
+    
+    background: url(magnifying-glass (1).png);
+    
+    
+    /* House of Plants */
+    
+    position: absolute;
+    width: 329px;
+    height: 86px;
+    left: 112px;
+    top: 552px;
+    
+    
+    
+    /* House of Plants */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: -43.02%;
+    bottom: -43.02%;
+    
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 115.4%;
+    /* or 40px */
+    display: flex;
+    align-items: center;
+    
+    /* Green1 */
+    color: #0D3824;
+    
+    
+    
+    /* Up Image */
+    
+    position: absolute;
+    width: 587px;
+    height: 401px;
+    left: 561px;
+    top: 275px;
+    
+    
+    
+    /* Rectangle 1210 */
+    
+    position: absolute;
+    width: 587px;
+    height: 401px;
+    left: 561px;
+    top: 275px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 23.2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+    
+    /* House of Plants */
+    
+    position: absolute;
+    width: 324px;
+    height: 86px;
+    left: 693px;
+    top: 438px;
+    
+    
+    
+    /* House of Plants */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 24.42%;
+    bottom: 24.42%;
+    
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 44px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Green1 */
+    color: #0D3824;
+    
+    
+    
+    /* Group 33380 */
+    
+    position: absolute;
+    width: 342px;
+    height: 57px;
+    left: 683px;
+    top: 395px;
+    
+    
+    
+    /* Rectangle 1197 */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #52BF81;
+    border-radius: 50px;
+    
+    
+    /* Button */
+    
+    position: absolute;
+    left: 19.9%;
+    right: 20.41%;
+    top: 15.79%;
+    bottom: 15.79%;
+    
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 39px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+    
+    
+    /* Group 33391 */
+    
+    position: absolute;
+    width: 342px;
+    height: 57px;
+    left: 684px;
+    top: 515px;
+    
+    
+    
+    /* Rectangle 1197 */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #52BF81;
+    border-radius: 50px;
+    
+    
+    /* Button */
+    
+    position: absolute;
+    left: 19.9%;
+    right: 20.41%;
+    top: 15.79%;
+    bottom: 15.79%;
+    
+    font-family: 'Mitr';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 39px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+    
